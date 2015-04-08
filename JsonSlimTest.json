@@ -1,0 +1,15 @@
+{
+    "stops" : [{
+        "la" : "nn.nnnnn",
+        "ln" : "-nn.nnnn",
+        "dur" : 500
+    }, {
+        "la" : "nn.nnnnn",
+        "ln" : "-nn.nnnn",
+        "dur" : 500
+    }, {
+        "la" : "nn.nnnnn",
+        "ln" : "-nn.nnnn",
+        "dur" : 500
+    }]
+}
